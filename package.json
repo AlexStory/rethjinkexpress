@@ -1,0 +1,11 @@
+{
+  "name": "rt",
+  "version": "1.0.0",
+  "description": "testing rt",
+  "main": "main.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "alex story",
+  "license": "ISC"
+}

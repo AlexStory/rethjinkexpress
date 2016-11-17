@@ -1,0 +1,26 @@
+body {
+  color: #333;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #ccc;
+  height: 100%;
+}
+.banner {
+  background: #0cc;
+  padding-left: 50px;
+  margin-bottom: 0;
+}
+.banner h1 {
+  margin: 0;
+}
+.content {
+  width: 60%;
+  margin-left: 20%;
+  align: center;
+  background: #efefef;
+  height: 100%;
+}
+.title {
+  margin-top: 0;
+}
