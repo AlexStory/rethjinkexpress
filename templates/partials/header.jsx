@@ -5,7 +5,7 @@ export default class HeaderTag extends React.Component {
         return (
             <div className="banner">
                 <h1>
-                    Alex's Test App
+                    <a href="/">Alex's Test App</a>
                 </h1>
             </div>
         )

@@ -16,6 +16,9 @@ export default class AddPerson extends React.Component {
                     <input type="text" name="number" />
                 </fieldset>
                 <input type='submit' text='submit'/>
+                <a href="/" >
+                    <button onClick="return false;">back</button>
+                </a>
                 </form>
             </DefaultLayout>
         )

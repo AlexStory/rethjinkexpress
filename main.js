@@ -12,7 +12,6 @@ app.set('view engine', 'jsx');
 app.engine('jsx', require('express-react-views').createEngine());
 
 
-
 // GET ROUTES
 app.get('/', route.index);
 app.get('/:name', route.other);

@@ -7,7 +7,8 @@ class DefaultLayout extends React.Component {
             <html>
                 <head>
                     <link rel='stylesheet' href='/main.css' />
-                </head>
+                    <title> Phonebook in Rethink </title>
+               </head>
                 <body>
                 <HeaderTag/>
                 <div className="content">
